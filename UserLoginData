@@ -1,0 +1,36 @@
+{
+  "loginTitle": "🔐 VIP ACCESS 🔐",
+  "loginDescription": "Login to unlock your exclusive VIP features.",
+  "loginButtonText": "Login",
+  "contactButtonText": "Contact",
+  "expiredTitle": "Subscription Expired",
+  "expiredDescription": "Your access expired on %s. Please renew to continue.",
+  "renewButtonText": "Renew Now",
+  "renewUrl": "https://wa.me/233547638136",
+  "telegramUrl": "https://t.me/braloco",
+  "whatsappUrl": "https://wa.me/233547638136",
+  "instagramUrl": "#",
+  "users": [
+    {
+      "username": "YammyMods",
+      "password": "YammyMods",
+      "expiryDate": "2025-07-8",
+      "deviceId": "a9d565368f4da707",
+      "appId": "com.expire.dialog.dev"
+    },
+    {
+      "username": "#",
+      "password": "#",
+      "expiryDate": "#",
+      "deviceId": "#",
+      "appId": "#"
+    }, 
+     {
+      "username": "#",
+      "password": "#",
+      "expiryDate": "#",
+      "deviceId": "#",
+      "appId": "#"
+   }
+  ]
+}
